@@ -6,3 +6,4 @@ Jupyter notebooks that go with the Booster LEAP courses. Each notebook opens in 
 - `computer-vision/notebook-cnn-from-scratch-e2e.ipynb`: a CNN from scratch, end to end
 - `diffusion-models/notebook-environment-and-first-generation.ipynb`: environment check, memory arithmetic and a first tiny diffusion model on your machine (CPU or Colab GPU)
 - `diffusion-models/notebook-train-tiny-ddpm.ipynb`: train a tiny DDPM end to end on 8 x 8 digits and on photo crops, sample with DDIM and DDPM, and measure the result
+- `diffusion-models/notebook-latent-inference-e2e.ipynb`: a latent text-to-image pipeline end to end: a photo autoencoder, then a toy tokenizer, text encoder, autoencoder, U-Net, scheduler and guidance on digits, with measurements and a scheduler comparison
